@@ -1,3 +1,3 @@
-## Welcome to Git!
+## Heyyo,  welcome everyone to my git guide!
 
--This is coming from 'dev-anushka'
+-This is coming addfrom 'dev-anushka'
